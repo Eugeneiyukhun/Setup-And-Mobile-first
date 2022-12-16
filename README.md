@@ -10,9 +10,10 @@ Building a set up and mobile first portfolio using HTML and CSS linters, flexbox
 - HTML and CSS
 - I used style linter
  
+## 🚀 Live Demo <a name="live-demo"></a>
+[Portfiolio: Desktop Version](https://eugeneiyukhun.github.io/Setup-And-Mobile-first/)
 
-## Live Demo
-[Portfiolio: Setup-And-mobile-first](https://eugeneiyukhun.github.io/Setup-And-Mobile-first/)
+- [Live Demo Link]- [Eugene Iyukhun](https://eugeneiyukhun.github.io/Setup-And-Mobile-first/)
 
 
 ## Getting Started
